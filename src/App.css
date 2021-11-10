@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  text-align: center;
+  padding: 40px;
+}
+
+.button {
+  padding: 10px;
+}
+
+
+.item {
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+  background-color: pink;
+  border-radius: 12px;
+}
+
+.container{
+  margin-top: 100px;
+}
+
+
